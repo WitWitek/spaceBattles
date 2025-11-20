@@ -4,7 +4,9 @@ space shooter game in java
 
 
 SpaceBattles
+## 📸 Screenshot
 
+![Gameplay](screenshots/screenshot1.png)
 Prosty kosmiczny shooter stworzony w Javie (Swing).
 Gra dostępna jest w formie EXE spakowanego w ZIP, więc nie trzeba instalować Javy ani uruchamiać JAR — wystarczy pobrać i uruchomić plik wykonywalny.
 

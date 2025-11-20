@@ -76,3 +76,9 @@ Swing (rendering, okna, input)
 Prosta pętla gry / Simple game loop
 
 Detekcja kolizji / Collision detection
+
+📄 Informacje / About
+
+Projekt powstał jako hobby i trening tworzenia gier 2D w Javie — obsługa renderowania Swing, ruchu, kolizji i prostych przeciwników.
+
+This project was created as a hobby to practice 2D game programming in Java — including Swing rendering, movement, collisions, and simple enemy behavior.
